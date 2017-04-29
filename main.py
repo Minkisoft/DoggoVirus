@@ -1,7 +1,7 @@
 from tkinter import *
 
 
-for i in range(1, 100):
+for i in range(1, 10000000):
     var = str(i)
     var = Tk()
     var.title("Doggo")
